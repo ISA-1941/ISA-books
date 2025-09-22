@@ -22,3 +22,11 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.book-block {
+  border-bottom: 2px solid black;  /* ЧЁРНАЯ линия */
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+
